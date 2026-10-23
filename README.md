@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rushton 👋
 
-<!--
-**RushGarris/RushGarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at UNC Wilmington. I build mobile apps, Discord bots, and small web projects, and I'm looking for a summer 2027 internship in Wilmington, NC.
 
-Here are some ideas to get you started:
+[![My portfolio](https://rushgarris.github.io/og.png)](https://rushgarris.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👉 [See my portfolio and live demos](https://rushgarris.github.io)
+
+**Languages:** Java, Python, JavaScript, TypeScript, Dart, SQL, HTML, CSS
+**Tools:** Flutter, Node.js, Firebase, SQLite, Git
+
+**Projects with live demos**
+- [Terraria Progression](https://rushgarris.github.io/terraria_progression/) is a Flutter and Firebase guide with a path for each class.
+- [Grandline Tic Tac Toe](https://rushgarris.github.io/grandline-tic-tac-toe/) is a One Piece themed game in the browser.
+
+📫 [rushtong06@gmail.com](mailto:rushtong06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rushton-garris-7a5a15346)
